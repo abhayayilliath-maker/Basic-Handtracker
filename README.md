@@ -2,7 +2,7 @@
 A very small and basic python program to control a drone or aerial device using hand gestures shown to the program via CV2.
 
 # Developers note:
-This github post/project is first of many to come and hopefully not the last. Therefore I hope the readers of this stay updated with my profile because this the seed taken from a fruit. The seed that grows into a huge fruit tree and lead to more seeds. I hope you understand this Shakespeare-wannabe message. Personally, I think this code was too simple to post but I have to start somewhere... right? Read the DISCLAIMER.md before attempting to use or modify the code.
+This github post/project is first of many to come and hopefully not the last. Therefore I hope the readers of this stay updated with my profile because this the seed taken from a fruit. The seed that grows into a huge fruit tree and lead to more seeds. I hope you understand this Shakespeare-wannabe message. Personally, I think this code was too simple to post but I have to start somewhere... right? ***Read the DISCLAIMER.md before attempting to use or modify the code.***
 
 # Requirements:
 This project requires:
@@ -25,7 +25,7 @@ pip install mediapipe==0.10.35
 
 # Credits:
 - **Claude AI by Anthropic**, used to generate, teach and help to debug and fix lines of code.
-- **Gemini by Google**, used to teach me how to create this README file and its features.
+- **Gemini by Google**, used to teach me how to create this README and DISCLAIMER file and its features along with choosing the best fitting licence.
 - **VSCode**, used to write the code. (obviously)
 - **Me**, of course, where I wrote 40% (generous btw) of the lines of code and main debuging and tester.
 
