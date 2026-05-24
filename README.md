@@ -38,7 +38,7 @@ pip install mediapipe==0.10.35
   4. **Both Hands tilting towards each other** --> DOWN
   5. **Left Hand Open and Right Hand Closed** --> LEFT
   6. **Left Hand Closed and Right Hand Open** --> RIGHT
-  7. **One Hand with Index Finger pointing up --> 360
+  7. **One Hand with Index Finger pointing up** --> 360
 - Gestures 3-7 are printed numerically for convenience.
   
 # Tests and debugging:
